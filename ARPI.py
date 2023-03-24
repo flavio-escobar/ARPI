@@ -1,8 +1,8 @@
 # /usr/bin/env python
 # -*- coding: utf-8 -*-
 # Sistema Inicial "ArPI Comunication"
-#import RPi.GPIO as GPIO
-#import smbus
+import RPi.GPIO as GPIO
+import smbus
 import time
 
 # Para RPI versao 1, usar "bus=smbus.SMBus (0)"
